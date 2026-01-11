@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Philips Blender 500W",
+      "category": "Oshxona texnikasi",
+      "price": 120,
+      "quantity": 15,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Microwave Oven",
+      "category": "Oshxona texnikasi",
+      "price": 250,
+      "quantity": 8,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "LG Vacuum Cleaner",
+      "category": "Tozalash uskunalari",
+      "price": 180,
+      "quantity": 12,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Dyson Cordless Vacuum",
+      "category": "Tozalash uskunalari",
+      "price": 420,
+      "quantity": 5,
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Air Conditioner",
+      "category": "Isitish va sovitish qurilmalari",
+      "price": 600,
+      "quantity": 6,
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "DeLonghi Electric Heater",
+      "category": "Isitish va sovitish qurilmalari",
+      "price": 150,
+      "quantity": 10,
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Philips Hair Dryer",
+      "category": "Shaxsiy parvarish qurilmalari",
+      "price": 90,
+      "quantity": 20,
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Braun Electric Shaver",
+      "category": "Shaxsiy parvarish qurilmalari",
+      "price": 110,
+      "quantity": 14,
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "name": "Google Nest Smart Speaker",
+      "category": "Aqlli uy texnikasi",
+      "price": 130,
+      "quantity": 9,
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Smart Home Camera",
+      "category": "Aqlli uy texnikasi",
+      "price": 75,
+      "quantity": 18,
+      "status": "active"
+    }
+  ]
+}

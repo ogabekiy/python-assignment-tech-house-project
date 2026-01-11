@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Admin",
+            "phone": "951540733",
+            "password": "admin",
+            "role": "admin",
+            "membership": "none",
+            "address": "HQ",
+            "purchase_history": []
+        },
+        {
+            "id": 2,
+            "name": "ogabek",
+            "phone": "905670733",
+            "password": "ogabek",
+            "role": "user",
+            "membership": "bronze",
+            "address": "tashkent",
+            "purchase_history": []
+        },
+        {
+            "id": 3,
+            "name": "A$AP",
+            "phone": "901540733",
+            "password": "0000",
+            "role": "user",
+            "membership": "bronze",
+            "address": "Hoollywood",
+            "purchase_history": []
+        }
+    ]
+}
